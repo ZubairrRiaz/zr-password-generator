@@ -28,10 +28,3 @@ if st.button('Generate Password'):
     st.write(f'Password Generated: {password}')
 
 
-#     echo "# zr-password-generator" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https://github.com/ZubairrRiaz/zr-password-generator.git
-# git push -u origin main
